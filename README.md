@@ -2,9 +2,9 @@
 
 **Data Analytics · Business Intelligence · Data Engineering**
 
-MSc Big Data Analytics with Distinction · BSc Software Engineering
+MSc Big Data Analytics · BSc Software Engineering
 
-SQL · Python · PostgreSQL · Power BI · Data Modelling · Data Quality
+SQL · Python · PostgreSQL · Power BI · Data Modelling · Data Quality · ETL · Git
 
 ### Currently
 
