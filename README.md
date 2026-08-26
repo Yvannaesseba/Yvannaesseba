@@ -1,14 +1,15 @@
 # Emmanuelle Yvanna Esseba
 
-MSc Big Data Analytics graduate with a background in Software Engineering.
+**Data Analytics · Business Intelligence · Data Engineering**
 
-I'm currently building projects across data analytics, BI and data engineering, with a focus on SQL, Python, data modelling, data quality and Power BI.
+MSc Big Data Analytics with Distinction · BSc Software Engineering
 
-## What I'm working on
+SQL · Python · PostgreSQL · Power BI · Data Modelling · Data Quality
 
-**Retail Operations Intelligence**
+### Currently
 
-I'm currently working with a retail dataset covering sales, products, customers, stores and inventory. I'm starting with the data itself: understanding the tables, checking data quality and working out how they relate before moving into PostgreSQL, data modelling, analysis and Power BI.
+Building **Retail Operations Intelligence**, with a focus on understanding the source data properly before moving into PostgreSQL, modelling, analysis and Power BI.
 
-## Projects
-...
+Alongside analytics and BI, I'm developing further in data engineering and the systems behind how data is stored, transformed and prepared.
+
+[LinkedIn](https://linkedin.com/in/e-esseba)
